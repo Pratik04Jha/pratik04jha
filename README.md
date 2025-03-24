@@ -1,5 +1,5 @@
 # 🚀 About Me
-Hey there! 👋 I’m Poptale <br />
+👋 Hey there! I’m Pratik Jha <br />
 💻 Front-End Developer | Aspiring Full-Stack Dev <br />
 📍 India <br />
 🎓 12th Grade Student | Passionate About Code & Tech <br />
