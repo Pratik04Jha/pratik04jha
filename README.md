@@ -1,12 +1,12 @@
-#🚀 About Me
-Hey there! 👋 I’m Poptale
-💻 Front-End Developer | Aspiring Full-Stack Dev
-📍 India
-🎓 12th Grade Student | Passionate About Code & Tech
-🔹 Currently diving deep into Back-End Development
-🔹 Love building interactive, user-friendly web experiences
-🔹 Exploring JavaScript, Node.js, and Databases
-🚀 On a mission to turn ideas into reality through code!
+# 🚀 About Me
+Hey there! 👋 I’m Poptale <br />
+💻 Front-End Developer | Aspiring Full-Stack Dev <br />
+📍 India <br />
+🎓 12th Grade Student | Passionate About Code & Tech <br />
+🔹 Currently diving deep into Back-End Development <br />
+🔹 Love building interactive, user-friendly web experiences <br />
+🔹 Exploring JavaScript, Node.js, and Databases <br />
+🚀 On a mission to turn ideas into reality through code! <br />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/4.0poptale0.4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4.0poptale0.4/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/pratik-jha-380037301/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pratik04jha/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Pratik-1703) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/poptale) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/POPTALE_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Pratik04jha) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Pratik-Jha-the-bold) 
