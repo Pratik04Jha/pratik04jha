@@ -2,7 +2,7 @@
 👋 Hey there! I’m Pratik Jha  
 💻 Full-Stack Developer | Game Developer | Tech Explorer  
 🎓 12th Grade Student | Passionate About Innovation  
-📍 India  
+📍 India
 🔹 Mastering the full web dev stack – from frontend magic to backend logic  
 🔹 Currently exploring app development – Mobile, Desktop, and PWAs  
 🔹 Passionate about chess, coding, and problem-solving  
@@ -31,8 +31,8 @@
  
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik04Jha&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pratik04Jha&theme=dark&hide_border=false) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik04Jha&layout=compact&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pratik04Jha&theme=dark&hide_border=false) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pratik04Jha&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
