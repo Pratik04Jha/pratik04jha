@@ -2,12 +2,12 @@
 # 🚀 About Me
 👋 Hey there! I’m Pratik Jha <br />
 💻 Full-Stack Developer | Game Developer | Tech Explorer <br />
-📍 India <br />
 🎓 12th Grade Student | Passionate About Innovation <br />
 🔹 Mastering the full web dev stack – from frontend magic to backend logic <br />
 🔹 Currently exploring app development – Mobile, Desktop, and PWAs <br />
 🔹 Passionate about chess, coding, and problem-solving <br />
 🚀 On a mission to turn ideas into reality through code! <br />
+📍 India <br />
 </div>
 
 ## 🌐 Socials:
