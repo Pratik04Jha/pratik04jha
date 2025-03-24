@@ -49,9 +49,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <img align="right" height="130" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"  />
 
----
 <br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poptale/Poptale/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Poptale/Poptale/output/github-snake.svg" />
