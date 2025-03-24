@@ -40,3 +40,7 @@ Hi 👋! My name is Poptale!<br>I'm a Front-end-developer<br>I am from India<br>
 [![](https://visitcount.itsvg.in/api?id=Pratik04Jha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik04Jha&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik04Jha&layout=compact&theme=radical)
+
