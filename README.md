@@ -1,17 +1,12 @@
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/poptale"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poptale" /></a><a href="https://ko-fi.com/pratikjha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pratikjha" /></a></p><br><br>
-
-
-
-<hr />
-
-
-# 💫 About Me:
-Hi 👋! My name is Poptale!<br>
-I'm a Front-end-developer<br>
-I am from India<br>Currently learning back-end<br>
-I am a school student and currently in 12th standard
+#🚀 About Me
+Hey there! 👋 I’m Poptale
+💻 Front-End Developer | Aspiring Full-Stack Dev
+📍 India
+🎓 12th Grade Student | Passionate About Code & Tech
+🔹 Currently diving deep into Back-End Development
+🔹 Love building interactive, user-friendly web experiences
+🔹 Exploring JavaScript, Node.js, and Databases
+🚀 On a mission to turn ideas into reality through code!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/4.0poptale0.4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4.0poptale0.4/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/pratik-jha-380037301/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pratik04jha/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Pratik-1703) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/poptale) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/POPTALE_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Pratik04jha) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Pratik-Jha-the-bold) 
@@ -56,3 +51,6 @@ I am a school student and currently in 12th standard
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratik04Jha&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik04Jha&layout=compact&theme=radical)
 
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/poptale"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poptale" /></a><a href="https://ko-fi.com/pratikjha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pratikjha" /></a></p><br><br>
