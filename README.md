@@ -1,3 +1,4 @@
+
 # Introduction
 I'm a self-taught programmer who creates **websites**, **games**, and **apps**. My favorite tech stack for websites is **Next.js**, **Supabase**, and **shadcn UI**, which helps me make my sites look clean, consistent, and professional. I also work with **AI SDKs** and **Appwrite** for specific use cases.
 
@@ -6,7 +7,7 @@ I enjoy creating games for fun, especially 2D games, using the **Godot engine** 
 It's been **2 years** since I started coding. I began with HTML on my phone, never imagining I would come this far so quickly. I'm still in school, counting down the days until I can fully dive into the projects I want to build. In school I am in 12th grade, standing right at the edge of this so called school life, can’t wait to finally break free and do everything I couldn’t because of it
 
 # Social media handles
-- [Twitter](https://x.com/gravitonion)
+- [X (Formaly Twitter)](https://x.com/gravitonion)
 - [LinkedIn](https://www.linkedin.com/in/pratikthejha/)
 
 
@@ -28,3 +29,5 @@ It's been **2 years** since I started coding. I began with HTML on my phone, nev
 [![Godot](https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godot&logoColor=white)](https://godotengine.org/)
 [![GDScript](https://img.shields.io/badge/GDScript-000000?style=for-the-badge&logo=godot&logoColor=white)](https://godotengine.org/)
 
+# Github trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pratik04jha&column=8&margin-w=15&margin-h=15&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
